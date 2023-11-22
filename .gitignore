@@ -1,4 +1,6 @@
 **/data/**
+**/saved_models/**
+
 enron_spam_ham.csv
 glove.6B.100d.txt
 
